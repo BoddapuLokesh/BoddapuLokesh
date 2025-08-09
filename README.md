@@ -35,8 +35,8 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ## 🤝 Connect with Me
 
-- 🌐 [Portfolio](https://boddapulokesh.github.io/portfolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lokeshboddapu)
+- 🌐 Portfolio: (https://boddapulokesh.github.io/portfolio)
+- 💼 Linkedin: (https://www.linkedin.com/in/lokeshboddapu)
 - 📫 Email: [lokeshboddapu@gmail.com](mailto:lokeshboddapu@gmail.com)
 
 ---

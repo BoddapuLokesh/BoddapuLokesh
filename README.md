@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Boddapu Lokesh!
+# 👋 Hi, I’m Lokesh Boddapu!
 
 🎓 **Final Year B.Tech (AI & ML) Student**  
 Passionate about building intelligent systems and solving real-world problems with AI, ML and related tech.
